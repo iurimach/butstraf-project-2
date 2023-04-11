@@ -1,3 +1,40 @@
+#rootheader{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top: 80px;
+}
+#label1{
+    font-size: 26px;
+}
+.naw 
+    * {
+    margin: 0;
+   padding: 0;
+   
+}
+#checkbox{
+    margin-left: 20px;
+}
+#openbox{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: white;
+  color: black;
+  border: 2px solid #e42d0d;
+  margin-left: 20px;
+}
+#openbox:hover{
+    background-color: #628663
+}
+#openbox:active{
+    
+        background-color: #608f61;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      
+}
 .section1{
     width: 100%;
     display: flex;
